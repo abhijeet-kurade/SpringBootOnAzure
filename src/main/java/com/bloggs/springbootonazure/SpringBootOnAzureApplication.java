@@ -11,7 +11,7 @@ public class SpringBootOnAzureApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "This is a Spring Boot app!!!";
+		return "This is a Spring Boot app by Abhijeet Kurade!!!";
 	}
 
 	public static void main(String[] args) {
